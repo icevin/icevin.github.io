@@ -1,2 +1,2 @@
 # icevin.github.io
-Personal Website
+GitHub Pages Website
